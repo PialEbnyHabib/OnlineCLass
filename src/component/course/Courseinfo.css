@@ -1,0 +1,10 @@
+.Info{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+    font-size:30px  ;
+}
+.cart-css{
+    padding: 60px 20px;
+    box-shadow: 5px 5px 10px rgb(226, 222, 222);
+}

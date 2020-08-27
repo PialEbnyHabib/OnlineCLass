@@ -1,0 +1,17 @@
+.info{
+    
+}
+
+.showcourse{
+
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 5px 5px 10px rgb(226, 222, 222);
+    /* display: flex;
+    float: left; */
+    
+}
+
+.Bill{
+    text-align: center;
+}
