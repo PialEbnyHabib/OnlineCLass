@@ -23,7 +23,7 @@ const Courseinfo = () => {
     return (
             <div className="container-fluid d-flex"> 
                 <div class='Info col-md-8'>
-            <h1>Choose Your Course</h1>
+            <h1 className="title">Choose Your Course</h1>
             <ul>
                 { courses.map(course => <Showcourse handleAddCourse ={handleAddCourse} Showcourse={course} ></Showcourse>  )} 
             </ul>
